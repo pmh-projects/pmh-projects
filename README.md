@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">Student UG, Passionate Frontend/Backend developer</h3>
 
-- 🌱 I’m currently learning **Python, Django, MERN, Drupal, Java EE, Glassfish, Linux**
+- 🌱 I’m currently learning **Python, Django, MERN, Drupal, Java EE, Linux**
 
 - 📫 How to reach me **pawelmach@pm.me**
 
