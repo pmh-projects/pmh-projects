@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Django, MERN, Drupal, Java EE, Linux**
 
-- 📫 How to reach me **pawelmach@pm.me**
+- 📫 How to reach me **pawel.mach@zohomail.eu**
 
 
 <h3 align="left">Languages and Tools:</h3>
