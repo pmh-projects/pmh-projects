@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
-<h3 align="center">Student UG, Backend/Frontend learner</h3>
 
 - 🌱 I’m currently learning **Python, Django, MERN, Drupal, Java EE, Linux**
 
-- 📫 How to reach me **pawel.mach@zohomail.eu**
+- 📫 How to reach me **pawelmach@pm.me**
 
 
 <h3 align="left">Languages and Tools:</h3>
